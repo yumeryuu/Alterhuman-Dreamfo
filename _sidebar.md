@@ -1,3 +1,3 @@
-- [Home](README)
+- [Home](HOME)
 - [Terminologies](Terminologies)
 - [Community History](Community-History)
