@@ -1,3 +1,3 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
-- [Third Page](thirdpage)
+- [Home](README)
+- [Terminologies](Terminologies)
+- [Community History](Community-History)
