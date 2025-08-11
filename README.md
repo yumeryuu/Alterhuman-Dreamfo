@@ -6,7 +6,7 @@ You can find my more personal blog [@that-dreaming-dragon](https://that-dreaming
 
 This site will be slow to update.
 
-![A simple divider](https://github.com/yumeryuu/Dreamdragon-Dreamwidth-Image-Upload/blob/main/Simple%20Divider.png)
+![A simple divider](https://github.com/yumeryuu/Dreamdragon-Dreamwidth-Image-Upload/blob/bbc12557c8310366f0fac76d58978964bd5e69fa/Simple%20Divider.png)
 
 ## Index
 
